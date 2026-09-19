@@ -1,0 +1,16 @@
+[auth]
+enable_anonymous_sign_ins = true
+enable_signup = false
+
+project_id = "novkheywufddqqoigxqe"
+
+[storage]
+enabled = true
+
+[storage.buckets.public-assets]
+public = true
+file_size_limit = "10MiB"
+allowed_mime_types = ["image/png", "image/jpeg", "image/webp", "image/gif"]
+
+[functions.authorize]
+verify_jwt = false

@@ -1,0 +1,9 @@
+{
+  "app": "منصة قرية الحرية",
+  "version": "5.0.0",
+  "backend": "Supabase",
+  "source": "GitHub",
+  "hosting": "Netlify / GitHub Pages",
+  "authentication": "Password-only + Supabase Anonymous Session",
+  "release": "2026-09-19"
+}

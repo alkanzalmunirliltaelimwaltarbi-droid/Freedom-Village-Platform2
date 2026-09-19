@@ -1,0 +1,14 @@
+{
+ "name":"منصة قرية الحرية",
+ "short_name":"قرية الحرية",
+ "description":"منصة قرية الحرية الخدمية والمعلوماتية",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "orientation":"portrait",
+ "background_color":"#f5f8f7",
+ "theme_color":"#0b5d45",
+ "lang":"ar",
+ "dir":"rtl",
+ "icons":[{"src":"./assets/logo.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]
+}
